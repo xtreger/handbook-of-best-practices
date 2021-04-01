@@ -1,10 +1,11 @@
-<img src="./icons/Benefits.png" width="140" height="100"/>
+![Benefits](./icons/Benefits.png)
 <h2  style="display:inline;"> Benefits & Challenges of Task Estimation
 </h2>
 
 &nbsp;
 
-#### Benefits
+### **Benefits**
+---
 The benefits achieved by task estimation can be summarised in the following points:
 
 1. It provides insights into the risks involved with the project.
@@ -16,7 +17,10 @@ The benefits achieved by task estimation can be summarised in the following poin
 4. Estimating supports decision making by providing insight into the costs and schedule of a proposed project.
 
 
-#### Challenges
+&nbsp;
+
+### **Challenges**
+---
 Even-though task estimation provides usefulness in project planning as mentioned in the above points. These are few challenges faced by individuals who are assigned with task estimation would be :
 
 1. Distinction between estimates and commitments.
@@ -27,11 +31,18 @@ Even-though task estimation provides usefulness in project planning as mentioned
 
 4. Planning is often based on completing activities rather than features.
 
+
+&nbsp;
+
+#### **Refernces**
+---
 Source: https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning
 
 
+&nbsp;
 
-#### Quick Links
+#### **Quick Links**
+---
 - [1. Introduction](../Introduction.md)
 
 - [2. Tackling challenges using agile planning techniques](Tackling_Challenges.md)

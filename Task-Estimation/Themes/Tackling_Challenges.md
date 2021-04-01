@@ -1,5 +1,5 @@
 
-<img src="./icons/Challenges.png" width="130" height="100">
+![Challenges](./icons/Challenges.png)
 <h2  style="display:inline;"> Tackling Challenges </h2>
 
 &nbsp;
@@ -17,10 +17,17 @@ We can combat challenges facing the task estimation process in scrum using agile
 
 + An additional problem some applications face is that the tasks to be implemented are not picked randomly from the backlog.
 
+&nbsp;
+
+#### **Refernces**
+---
 1. Source: https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning
 2. Source: https://blog.valuemotive.com/agile-estimation-challenges-636184e8b199
 
-#### Quick Links
+&nbsp;
+
+#### **Quick Links**
+---
 - [1. Introduction](../Introduction.md)
 
 - [2. Benefits & challenges of task estimation](Benefits_Challenges.md)
