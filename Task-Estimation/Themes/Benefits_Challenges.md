@@ -34,10 +34,10 @@ Source: https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-an
 #### Quick Links
 - [1. Introduction](../Introduction.md)
 
-- [2. Tackling challenges using agile planning techniques](/Themes/Tackling_Challenges.md)
+- [2. Tackling challenges using agile planning techniques](Tackling_Challenges.md)
 
-- [3. Building a successful story point estimation](/Themes/Building_estimation.md)
+- [3. Building a successful story point estimation](Building_estimation.md)
 
-- [4. Advantages and disadvantages of twice estimation](/Themes/Advantages_Disadvantages.md)
+- [4. Advantages and disadvantages of twice estimation](Advantages_Disadvantages.md)
 
-- [5. Bad practices of task estimation](/Themes/Bad_practices.md)
+- [5. Bad practices of task estimation](Bad_practices.md)

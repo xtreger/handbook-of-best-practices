@@ -22,10 +22,10 @@ We can combat challenges facing the task estimation process in scrum using agile
 #### Quick Links
 - [1. Introduction](../Introduction.md)
 
-- [2. Benefits & challenges of task estimation](/Themes/Benefits_Challenges.md)
+- [2. Benefits & challenges of task estimation](Benefits_Challenges.md)
 
-- [3. Building a successful story point estimation](/Themes/Building_estimation.md)
+- [3. Building a successful story point estimation](Building_estimation.md)
 
-- [4. Advantages and disadvantages of twice estimation](/Themes/Advantages_Disadvantages.md)
+- [4. Advantages and disadvantages of twice estimation](Advantages_Disadvantages.md)
 
-- [5. Bad practices of task estimation](/Themes/Bad_practices.md)
+- [5. Bad practices of task estimation](Bad_practices.md)
