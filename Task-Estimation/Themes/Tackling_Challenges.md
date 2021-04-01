@@ -1,5 +1,7 @@
 
 ![Challenges](https://github.com/xtreger/handbook-of-best-practices/blob/task-estimation-in-scrum/Task-Estimation/Images/challenges.png)
+
+  <img src="https://github.com/xtreger/handbook-of-best-practices/blob/task-estimation-in-scrum/Task-Estimation/Images/challenges.png" width="100" height="100"/>
 <h2  style="display:inline;"> Tackling Challenges </h2>
 
 &nbsp;
