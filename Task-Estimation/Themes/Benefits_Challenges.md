@@ -1,4 +1,4 @@
-<img src="../Images/Benefits.png" width="130" height="100"/>
+<img src="./icons/Benefits.png" width="140" height="100"/>
 <h2  style="display:inline;"> Benefits & Challenges of Task Estimation
 </h2>
 

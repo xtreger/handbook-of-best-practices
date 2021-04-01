@@ -1,4 +1,5 @@
-<img src="../images/Challenges.png" width="100" height="80"/>
+
+<img src="./icons/Challenges.png" width="130" height="100">
 <h2  style="display:inline;"> Tackling Challenges </h2>
 
 &nbsp;
