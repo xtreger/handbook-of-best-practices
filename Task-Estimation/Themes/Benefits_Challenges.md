@@ -1,4 +1,4 @@
-![Benefits](./icons/Benefits.png)
+![Benefits](https://github.com/xtreger/handbook-of-best-practices/blob/task-estimation-in-scrum/Task-Estimation/Images/benefits.png)
 <h2  style="display:inline;"> Benefits & Challenges of Task Estimation
 </h2>
 
