@@ -51,6 +51,8 @@ this, developers should make proper use of whitespaces:
 
 ### 2. Principle of DRY
 
+---
+
 When coding, developers should remember the principle of DRY, which means
 **"Don't Repeat Yourself"**. It is a good practice to avoid duplication of code as it can eventually lead to
 unmaintainable and buggy systems. Therefore, the code in the application should be such that the same code is not
