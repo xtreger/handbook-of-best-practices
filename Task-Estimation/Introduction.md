@@ -1,6 +1,6 @@
 
 
-  <img src="https://github.com/xtreger/handbook-of-best-practices/blob/task-estimation-in-scrum-jouhara/Task-Estimation/images/intro.png" width="200" height="150"/>
+  <img src="https://github.com/xtreger/handbook-of-best-practices/blob/task-estimation-in-scrum-jouhara/Task-Estimation/images/intro.png" width="200" height="170"/>
   <h2  style="display:inline;"> Task estimation in Scrum</h2>
 
    &nbsp;
