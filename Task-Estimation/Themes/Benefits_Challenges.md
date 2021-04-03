@@ -1,4 +1,4 @@
-<img src="https://github.com/xtreger/handbook-of-best-practices/blob/task-estimation-in-scrum/Task-Estimation/Images/benefits.png" width="140" height="100"/>
+<img src="https://github.com/xtreger/handbook-of-best-practices/blob/task-estimation-in-scrum-jouhara/Task-Estimation/Themes/icons/benefits.png" width="140" height="100"/>
 <h2  style="display:inline;"> Benefits & Challenges of Task Estimation
 </h2>
 
