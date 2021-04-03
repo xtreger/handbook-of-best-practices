@@ -14,6 +14,10 @@ from getting into your project at an early stage of the software development pro
 
 &nbsp;
 
+#### The following  checklist will give you an idea of what you should look for when reviewing the code:
+
+&nbsp;
+
 |References |
 |---|
 |[12 Best Code Review Tools for Developers](https://kinsta.com/blog/code-review-tools/)|
