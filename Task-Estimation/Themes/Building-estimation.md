@@ -22,7 +22,7 @@ In Story sizing, team does a comparative analysis between all of the stories for
 
 8. Periodically ensure that all of the 1’s are about the same, all of the 2’s match, etc.
 
-<img src="https://github.com/xtreger/handbook-of-best-practices/blob/task-estimation-in-scrum/Task-Estimation/Themes/icons/success.png" width="600" height="250"/>
+<img src="https://github.com/xtreger/handbook-of-best-practices/blob/task-estimation-in-scrum-diya/Task-Estimation/Themes/icons/steps.png" width="600" height="250"/>
 
 &nbsp;
 
