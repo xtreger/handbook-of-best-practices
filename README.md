@@ -12,7 +12,7 @@ process that is consistent and reliable throughout all Sprints.
 
 &nbsp;
 
-####Efficient and successful task estimation can be achieved by applying the following points:
+#### Efficient and successful task estimation can be achieved by applying the following points:
 
 ### 1. Building a successful story point estimation
 
