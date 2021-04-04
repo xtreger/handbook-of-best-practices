@@ -30,14 +30,47 @@ In Task Estimation, team does a comparative analysis between all of the stories 
  the following as a team(Product Owner, Core Scrum team including developers, testers & scrum master):
 
 
-
-&nbsp;
-
-<img src="https://github.com/xtreger/handbook-of-best-practices/blob/task-estimation-in-scrum-jouhara/Images/steps.png" width="500" height="200"/>
+![](Images/steps1.png "")
 
 &nbsp;
 
 ### 2. The importance of story point estimation
+
+---
+Often happens that one person estimates a project, but other people complete the tasks. In this case, Story Points are indispensable. An example of why story points better than hours is illustrated in the example below:
+
+> A company has a project at 200 story points(SP). One engineer starts working on it. His velocity is 1 SP per 3 hours. The start date is May 30th. Based on this information.
+
+it’s easy to calculate the project release date as follows:
+
+1. The time needed to finish all the work :
+
+
+    **T=Qsp*t**
+       
+    200x3 = 600 (hours).
+
+2. The number of workdays:
+
+    **Nw=T/Prt**
+       
+    600 / 6 = 100 (workdays).
+
+**Solution:** Having a calendar at hand, we can then calculate a release date — October 14th.    
+
+&nbsp;    
+
+| Formula keywords |  |
+| ------ | ----------- |
+| Qsp   | general quantity of SP |
+| T | Time |
+| Nw    | Number of days |
+| Prt    | quantity of productive hours (usually 6 hours) |
+
+
+
+
+&nbsp;
 
 ---
 
@@ -88,39 +121,6 @@ responsibilities.
 3. Teams aren't stable; people come and go regularly to help on other things or contractors leave the program entirely.
 
 4. Team is working on a brand new initiative and has never done this kind of work before.
-
-Often happens that one person estimates a project, but other people complete the tasks. In this case, Story Points are indispensable. An example of why story points better than hours is illustrated in the example below:
-
-> A company has a project at 200 story points(SP). One engineer starts working on it. His velocity is 1 SP per 3 hours. The start date is May 30th. Based on this information.
-
-it’s easy to calculate the project release date as follows:
-
-1. The time needed to finish all the work :
-
-
-    **T=Qsp*t**
-       
-    200x3 = 600 (hours).
-
-2. The number of workdays:
-
-    **Nw=T/Prt**
-       
-    600 / 6 = 100 (workdays).
-
-**Solution:** Having a calendar at hand, we can then calculate a release date — October 14th.    
-
-&nbsp;    
-
-| Formula keywords |  |
-| ------ | ----------- |
-| Qsp   | general quantity of SP |
-| T | Time |
-| Nw    | Number of days |
-| Prt    | quantity of productive hours (usually 6 hours) |
-
-
-
 
 &nbsp;
 
