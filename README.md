@@ -1,5 +1,3 @@
-# Handbook of Best Practices
-
 ## Coding Standards
 
 In the Software Development Industry, standardization has a positive impact in every business therefore certain coding
