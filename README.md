@@ -10,7 +10,7 @@ emphasize and empower each other in order to accomplish the best results.
 
 ## Table of Contents
 
----
+
 **[Task Estimation in Scrum](#task-estimation)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Building a successful story point estimation](#1-building-a-successful-story-point-estimation)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The importance of story point estimation](#2-the-importance-of-story-point-estimation)<br>
