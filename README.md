@@ -29,11 +29,11 @@ int Divide()
 
 ---
 
-The main naming conventions are
+The main naming conventions are:
 
-camelCase: This is where the first letter of each word is capatalised, except for the first word.
+* camelCase: This is where the first letter of each word is capatalised, except for the first word.
 
-under_score: This is naming by using an underscore between the words.
+* under_score: This is naming by using an underscore between the words.
 
 It is the choice of the developer as to which naming scheme is used in the program, but is very important to maintain the consistency of the naming scheme throughout the code. Conventionally camelCase is used in Java while under_score is used in PHP.
 
