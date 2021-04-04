@@ -33,7 +33,7 @@ A tool-assisted code review process involves the use of a specialised tool to fa
 
 + Assess the efficacy of the code review process with metrics.
 + Facilitate a conversation between reviewers and developers.
-+ Organize and display the updated files in a change.
++ Organise and display the updated files in a change.
 
 &nbsp;
 
@@ -44,7 +44,7 @@ One of the ways to make code reviews better is through tone of the review which 
 
 **Good code reviews**: is when a reviewer have an open mind and not judge and make opinionated statements. These views should be clarified instead of forcing correction.
 
-**Better code reviews**: the reviewers is more empathetic and takes time to go through every single line of the code. They have positive feedback and applaud nice solutions.
+**Better code reviews**: the reviewer is more empathetic and takes time to go through every single line of the code. They have positive feedback and applaud nice solutions.
 
 &nbsp;
 
