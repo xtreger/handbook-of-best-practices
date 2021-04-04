@@ -34,11 +34,10 @@ A code review is a process where someone other than the engineers of
 | Tests    | correct and well-designed automated tests |
 
 
-
 &nbsp;
 
 
-### 5. Examples of code reviews
+### 5. Examples of code reviews
 
 ---
 
