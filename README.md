@@ -11,15 +11,8 @@ from getting into your project at an early stage of the software development pro
 
 &nbsp;
 
-#### The following checklist will give you an idea of what you should look for when reviewing the code:
+The following steps will give you an idea of what you should look for when reviewing the code:
 
-
-
-+ How to perform a Tool-Assisted code review
-+ How to Make code reviews better
-+ Code Review Checklist
-+ Reviewers guidelines on code reviews
-+ Examples of code reviews
 
 &nbsp;
 
