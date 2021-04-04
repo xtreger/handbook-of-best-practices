@@ -9,3 +9,26 @@ emphasize and empower each other in order to accomplish the best results.
 ## Table of Contents
 
 ---
+**[Task Estimation in Scrum](#task-estimation)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Building a successful story point estimation](#1-building-a-successful-story-point-estimation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The importance of story point estimation](#2-the-importance-of-story-point-estimation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Challenges](#3-challenges)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Overcoming estimation challenges](#4-overcoming-estimation-challenges)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bad practices of task estimation](#5-bad-practices-of-task-estimation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Advantages and disadvantages of twice estimation](#6-advantages-and-disadvantages-of-twice-estimation)<br>
+
+**[Coding Standards](#coding-standards)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Purpose of Having Coding Standards](#purpose-of-having-coding-standards)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Indentation](#1-indentation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Principle of DRY](#2-principle-of-dry)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Writing Test Cases](#3-writing-test-cases)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Avoid Commenting on Obvious Things](#purpose-of-having-coding-standards)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Limited use of globals](#purpose-of-having-coding-standards)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Code Comments and Proper Documentation](#purpose-of-having-coding-standards)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Proper and Consistent Scheme for Naming](#purpose-of-having-coding-standards)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Refactoring of code](#purpose-of-having-coding-standards)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Write test cases](#purpose-of-having-coding-standards)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Length of functions should not be very large](#purpose-of-having-coding-standards)<br>
+
+
+
