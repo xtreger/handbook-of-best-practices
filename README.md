@@ -1,27 +1,18 @@
 # Handbook of Best Practices
 
-## Task Estimation
+## Task Estimation in Scrum
 
 
 The Sprint Planning meeting is the Scrum ceremony where the team estimates all tasks associated with each user story in the Sprint backlog. 
 The estimation effort focuses on all resources required to complete the tasks for each Sprint. 
 
 A shared task list is used to estimate the 
-duration and effort for each user story in the backlog. This practice results in a shared team perspective, resulting in a task estimation 
+duration and effort for each user story in the backlog. Such practice results in a shared team perspective, resulting in a task estimation
 process that is consistent and reliable throughout all Sprints. 
-In this section of the handbook we will discuss the following points : 
-
-
- + Building a successful story point estimation
- + The importance of story point estimation
- + Challenges of accurately estimating tasks
- + Overcoming estimation challenges
- + Bad practices of task estimation
- + Advantages and disadvantages of twice estimation
- 
 
 &nbsp;
 
+#### Efficient and successful task estimation can be achieved by applying the following points:
 
 ### 1. Building a successful story point estimation
 
