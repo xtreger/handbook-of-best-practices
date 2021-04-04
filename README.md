@@ -63,7 +63,7 @@ A code review is a process where someone other than the engineers of
 
 &nbsp;
 
-| Features  | Explaination |
+| Features  | Explanation |
 | ------ | ----------- |
 | Design   | well-designed and appropriate system |
 | Functionality | code behave as intended by the developer |
