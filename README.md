@@ -72,7 +72,6 @@ it’s easy to calculate the project release date as follows:
 
 &nbsp;
 
----
 
 &nbsp;
 
