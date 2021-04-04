@@ -13,7 +13,7 @@ In this section of the handbook we will discuss the following points :
 
 
  + Building a successful story point estimation
- + The importence of story point estimation
+ + The importance of story point estimation
  + Challenges of accurately estimating tasks
  + Overcoming estimation challenges
  + Bad practices of task estimation
@@ -37,7 +37,7 @@ In Task Estimation, team does a comparative analysis between all of the stories 
 
 &nbsp;
 
-### 2. The importence of story point estimation
+### 2. The importance of story point estimation
 
 ---
 
