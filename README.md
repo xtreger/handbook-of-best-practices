@@ -117,6 +117,7 @@ Even-though task estimation provides usefulness in project planning as mentioned
 * Uncertainty in those estimates is often ignored.
 * Planning is often based on completing activities rather than features.
 
+
 &nbsp;
 
 ### 4. Overcoming estimation challenges
@@ -131,6 +132,7 @@ It is worth highlighting the challenges behind creating good estimates. The key 
 3. Involve The People Who Will Actually Do The Work
 4. Factor In The Partnerships
 5. Identify and Investigate High-Risk Items
+
 
 &nbsp;
 
@@ -202,7 +204,7 @@ consistency.
 
 &nbsp;
 
-##### Some of the coding standards are given below:
+#### Some of the coding standards are given below:
 
 ### 1. Indentation
 
