@@ -42,7 +42,7 @@ A tool-assisted code review process involves the use of a specialised tool to fa
 ---
 One of the ways to make code reviews better is through tone of the review which can greatly influence morale within teams.
 
-**Good code reviews**: is when a reviewer have an open mind and not judge and make opinionated statements. These views should be clarified instead of forcing correction.
+**Good code reviews**: is when a reviewer has an open mind and not judge and make opinionated statements. These views should be clarified instead of forcing correction.
 
 **Better code reviews**: the reviewer is more empathetic and takes time to go through every single line of the code. They have positive feedback and applaud nice solutions.
 
