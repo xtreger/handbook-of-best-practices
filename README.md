@@ -202,7 +202,7 @@ consistency.
 
 &nbsp;
 
-##### Some of the coding standards are given below:
+#### Some of the coding standards are given below:
 
 ### 1. Indentation
 
