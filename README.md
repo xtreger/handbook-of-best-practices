@@ -21,14 +21,13 @@ emphasize and empower each other in order to accomplish the best results.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Purpose of Having Coding Standards](#purpose-of-having-coding-standards)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Indentation](#1-indentation)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Principle of DRY](#2-principle-of-dry)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Writing Test Cases](#3-writing-test-cases)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Avoid Commenting on Obvious Things](#purpose-of-having-coding-standards)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Limited use of globals](#purpose-of-having-coding-standards)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Code Comments and Proper Documentation](#purpose-of-having-coding-standards)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Proper and Consistent Scheme for Naming](#purpose-of-having-coding-standards)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Refactoring of code](#purpose-of-having-coding-standards)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Write test cases](#purpose-of-having-coding-standards)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Length of functions should not be very large](#purpose-of-having-coding-standards)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Avoid Commenting on Obvious Things](#3-avoid-commenting-on-obvious-things)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Limited use of globals](#4-limited-use-of-globals)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Code Comments and Proper Documentation](#5-code-comments-and-proper-documentation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Proper and Consistent Scheme for Naming](#6-proper-and-consistent-scheme-for-naming)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Refactoring of code](7-refactoring-of-code)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Write test cases](#8-write-test-cases)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Length of functions should not be very large](#9-length-of-functions-should-not-be-very-large)<br>
 
-
+**[Code Reviews](#code-reviews)**<br>
 
