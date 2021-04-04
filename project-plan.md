@@ -48,3 +48,12 @@ Conduct research on the topics and agree on relevant resources to be used
 ---
 1. Discuss as a team and identify a list of things that we would do differently as a team the next time.
 2. Add this list to the repository below the project plan we created.
+
+&nbsp;
+
+### List of things that we would do differently:
+* All team members to use the same IDE as they can share the same configuration and work in a more consistent environment.
+* Discuss the structure of the Handbook before individuals start working on each task.
+* Conduct more regular meetings to share progress and make sure that team members get help when they need it.
+* Make more use of comments through Github. 
+* Agree on a specific step-by-step Gitflow process rather than a general plan of practice during the development.
