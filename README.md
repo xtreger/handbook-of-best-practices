@@ -67,17 +67,7 @@ def my_function():
 
 &nbsp;
 
-### 3. Writing Test Cases
-
----
-
-By writing test cases you will know what your methods do, what they take and what they return. This way you know when
-your function should work or when it should fail. Functions should always be based on test cases, not the other way
-around.
-
-&nbsp;
-
-### 4. Avoid Commenting on Obvious Things
+### 3. Avoid Commenting on Obvious Things
 
 ---
 
@@ -95,7 +85,7 @@ for(int i=0;i<10;i++) //for loop starts here
 
 &nbsp;
 
-### 5. Limited use of globals
+### 4. Limited use of globals
 
 ---
 
@@ -103,7 +93,7 @@ Code is generally clearer and easier to maintain when it does not use globals. G
 
 &nbsp;
 
-### 6. Code Comments and Proper Documentation
+### 5. Code Comments and Proper Documentation
 
 ---
 
@@ -122,7 +112,7 @@ int Divide()
 
 &nbsp;
 
-### 7. Proper and Consistent Scheme for Naming
+### 6. Proper and Consistent Scheme for Naming
 
 ---
 
@@ -136,7 +126,7 @@ It is the choice of the developer as to which naming scheme is used in the progr
 
 &nbsp;
 
-### 8. Refactoring of code
+### 7. Refactoring of code
 
 ---
 
@@ -144,7 +134,7 @@ Refactoring means to restructure your existing code to improve its internal stru
 
 &nbsp;
 
-### 9. Write test cases
+### 8. Write test cases
 
 ---
 
@@ -152,7 +142,7 @@ Test cases can be vital to verify the functionality of your code, what it takes 
 
 &nbsp;
 
-### 10. Length of functions should not be very large
+### 9. Length of functions should not be very large
 
 ---
 
