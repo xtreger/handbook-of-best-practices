@@ -165,4 +165,4 @@ Functions should be small enough as to carry out a small amount of work and leng
 |[Coding Standards and Guidelines](https://www.geeksforgeeks.org/coding-standards-and-guidelines/)|
 [Importance of Code Quality and Coding Standard](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/)|
 |[Coding Standards and Best Practices](https://www.aversan.com/coding-standards-and-best-practices-2/)|
-|[Best coding practices](https://en.wikipedia.org/wiki/Best_coding_practices)|
+|[Write Better Code with Coding Standards](https://levelup.gitconnected.com/write-better-code-with-coding-standards-546faf3fd4d1)|
