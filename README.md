@@ -41,7 +41,7 @@ Teams can get better at estimating tasks to provide accurate forecasts. Common b
 1. Teams are interrupted with production issues or other 
 responsibilities.
 
-2. Teams give estimates as if they were full-time dedicated, but they have many initiatives in progress.
+2. Teams give estimates to engineers as if they were full-time dedicated, but they have many initiatives in progress.
 
 3. Teams aren't stable; people come and go regularly to help on other things or contractors leave the program entirely.
 
