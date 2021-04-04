@@ -6,6 +6,8 @@ called "best practices" not because we can specifically measure their value but 
 viewed to frequently be used in industry by successful organizations. Each of the best practices
 emphasize and empower each other in order to accomplish the best results.
 
+&nbsp;
+
 ## Table of Contents
 
 ---
@@ -30,4 +32,11 @@ emphasize and empower each other in order to accomplish the best results.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Length of functions should not be very large](#9-length-of-functions-should-not-be-very-large)<br>
 
 **[Code Reviews](#code-reviews)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to perform a Tool-Assisted code review](#1-how-to-perform-a-tool-assisted-code-review)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to Make Code Reviews Better](#2-how-to-make-code-reviews-better)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Code Review Checklist](#3-code-review-checklist)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Reviewers guidelines on code reviews](#4reviewersguidelinesoncodereviews)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Examples of code reviews](#5examplesofcodereviews)<br>
+
+&nbsp;
 
