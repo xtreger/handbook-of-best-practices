@@ -11,7 +11,7 @@ from getting into your project at an early stage of the software development pro
 
 &nbsp;
 
-####The following steps will give you an idea of what you should look for when reviewing the code:
+#### The following steps will give you an idea of what you should look for when reviewing the code:
 
 ### 1. How to perform a Tool-Assisted code review
 
