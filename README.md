@@ -27,7 +27,7 @@ emphasize and empower each other in order to accomplish the best results.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Limited use of globals](#4-limited-use-of-globals)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Code Comments and Proper Documentation](#5-code-comments-and-proper-documentation)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Proper and Consistent Scheme for Naming](#6-proper-and-consistent-scheme-for-naming)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Refactoring of code](7-refactoring-of-code)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Refactoring of code](#7-refactoring-of-code)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Write test cases](#8-write-test-cases)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Length of functions should not be very large](#9-length-of-functions-should-not-be-very-large)<br>
 
