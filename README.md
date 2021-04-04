@@ -26,12 +26,14 @@ from getting into your project at an early stage of the software development pro
 
 A code review is a process where someone other than the engineers of a piece of code examines that code. The following table showcases what code reviewers Look For in a code review:
 
-| Features  | Explanation |
-| ------ | ----------- |
-| Design   | well-designed and appropriate system |
-| Functionality | code behave as intended by the developer |
-| Complexity    | simplicity and ease of read |
-| Tests    | correct and well-designed automated tests |
+&nbsp;
+
+| Features  | Explaination |
+| ------ | ----------- |
+| Design   | well-designed and appropriate system |
+| Functionality | code behave as intended by the developer |
+| Complexity    | simplicity and ease of read |
+| Tests    | correct and well-designed automated tests |
 
 
 &nbsp;
