@@ -78,4 +78,4 @@ it’s easy to calculate the project release date as follows:
 |References |
 |---|
 |[Building a successful story point estimation](http://www.agilebuddha.com/agile/agile-estimation-8-steps-to-successful-story-point-estimation/)|
-[The importence of story point estimation](https://rubygarage.org/blog/3-reasons-to-estimate-with-story-points)|
+[The importance of story point estimation](https://rubygarage.org/blog/3-reasons-to-estimate-with-story-points)|
